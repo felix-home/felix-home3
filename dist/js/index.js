@@ -3,7 +3,7 @@ function index(){
     if(currentUser != null){
         $(location).attr('href', './query.html');
     }else{
-        $(location).attr('href', './login.html');
+        $(location).attr('href', './logintest.html');
     }
 }
 index();
