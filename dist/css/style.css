@@ -12,7 +12,7 @@ body{
 }
 @keyframes myfirst
 {
-    0%   {background:url("../img/2.jpg");}
+    100%   {background:url("../img/2.jpg");}
     /* 34%  {background:url("../img/2.jpg");}
     67%  {background:url("../img/3.jpg");}
     100% {background:url("../img/1.jpg");} */
